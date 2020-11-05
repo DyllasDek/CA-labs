@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/MSI-PC/Desktop/Week10/ex1/simulation/modelsim
+vex1
+!s110 1604599829
+!i10b 1
+!s100 BR2OKA`JT0_<kGTVST1RC2
+I?:79<?9[aN73ZPU<0=UjG1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604599764
+8C:/Users/MSI-PC/Desktop/Week10/ex1/ex1.v
+FC:/Users/MSI-PC/Desktop/Week10/ex1/ex1.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1604599829.000000
+!s107 C:/Users/MSI-PC/Desktop/Week10/ex1/ex1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/MSI-PC/Desktop/Week10/ex1|C:/Users/MSI-PC/Desktop/Week10/ex1/ex1.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/MSI-PC/Desktop/Week10/ex1
+Z5 tCvgOpt 0
+vhard_block
+Z6 !s110 1604599828
+!i10b 1
+!s100 9YRF0XiF85;T6Z8:LPLDf0
+IIliRR^147f[gFBWH^]?^10
+R1
+R0
+w1604599811
+8ex1.vo
+Fex1.vo
+L0 264
+R2
+r1
+!s85 0
+31
+!s108 1604599826.000000
+!s107 ex1.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex1.vo|
+!i113 1
+R3
+!s92 -vlog01compat -work work +incdir+.
+R5
+vtestbench
+R6
+!i10b 1
+!s100 Xcb1C`a?8Iim59TmmNQeH3
+I5e1eOCmh5bP@bg888Sag[3
+R1
+R0
+w1604599409
+8C:/Users/MSI-PC/Desktop/Week10/ex1/testbench.v
+FC:/Users/MSI-PC/Desktop/Week10/ex1/testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1604599828.000000
+!s107 C:/Users/MSI-PC/Desktop/Week10/ex1/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/MSI-PC/Desktop/Week10/ex1|C:/Users/MSI-PC/Desktop/Week10/ex1/testbench.v|
+!i113 1
+R3
+R4
+R5
